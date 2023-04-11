@@ -1,0 +1,19 @@
+{
+  "name": "micro-blog-samp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd client && yarn && cd ../comments && yarn && cd ../event-bus && yarn && cd ../posts && yarn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vignesh-karunakaran/micro-blog-samp.git"
+  },
+  "author": "vignesh-karunakaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vignesh-karunakaran/micro-blog-samp/issues"
+  },
+  "homepage": "https://github.com/vignesh-karunakaran/micro-blog-samp#readme"
+}
