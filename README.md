@@ -1,1 +1,2 @@
-# micro-blog-samp
+# Blog server
+Basic microservice architecture.
